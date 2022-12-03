@@ -1,9 +1,8 @@
-.container{
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  text-align: center;
 
-    display: flex;
-    justify-content: center;
-    margin: 0 auto; 
-    text-align: center;
-   
-    border: rgb(255, 0, 0) solid 3px; 
-  }
+  border: rgb(255, 0, 0) solid 3px;
+}

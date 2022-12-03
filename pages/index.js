@@ -9,6 +9,11 @@ export default function Home() {
       <Head>
         <title>Home</title>
         <meta name="web-kehitys" content="web-kehitys" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7293339160454492"
+          crossOrigin="anonymous"
+        ></script>
       </Head>
       <h1 className={styles.title}>Home</h1>
 
